@@ -11,7 +11,7 @@ import SwiftUI
 struct learn_swiftApp: App {
     var body: some Scene {
         WindowGroup {
-            MyView()
+            ExampleTextFieldView()
         }
     }
 }
